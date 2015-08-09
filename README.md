@@ -1,5 +1,5 @@
 # lisp-phonelist
-Phone list in LISP (made for Programming Paradigms)
+Phone list in LISP (made for Programming Paradigms module)
   
 Interaction example:
 
